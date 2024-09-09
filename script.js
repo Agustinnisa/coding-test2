@@ -11,3 +11,4 @@ let array3 = [5];
 
 console.log(reverseAndTimeArray(array1));
 console.log(reverseAndTimeArray(array2));
+console.log(reverseAndTimeArray(array3));
